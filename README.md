@@ -20,10 +20,25 @@ _Objetivos Específicos_
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**    
+Capítulo 3   
 
 
 
+Capítulo 4   
 
+
+![Ejer37-41](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/37-41.png)  
+![Ejer43](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/43.png)  
+![Ejer45](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/45.png)   
+![Ejer47](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/47.png)    
+![Ejer49](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/49.png)    
+![Ejer51](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/51.png)    
+![Ejer53-57](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/53-57.png)    
+![Ejer59](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/59.png)    
+![Ejer61](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/61.png)    
+![Ejer63](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/63.png)    
+![Ejer65](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/65.png)    
+![Ejer67](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/67.png)    
 **4. VIDEO**    
 
 
