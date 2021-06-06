@@ -13,9 +13,9 @@ _Objetivos Específicos_
 
 
 **2. MARCO TEÓRICO**    
+Capítulo 3
 
-
-
+Capítulo 4
 ![Cap4_1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_1.png)  
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
 
