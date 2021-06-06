@@ -16,7 +16,8 @@ _Objetivos Específicos_
 
 
 
-
+![Cap4_1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_1.png)  
+![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**    
 
