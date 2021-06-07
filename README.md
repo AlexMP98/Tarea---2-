@@ -63,6 +63,7 @@ Capítulo 4
 ![EjersC4 21-23](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2021-23.png)
 ![EjersC4 25-27](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2025-27.png)
 ![EjersC4 29-31](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2029-31.png)
+
 ![EjersC4 33-35](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2033-35.png)
 
 
