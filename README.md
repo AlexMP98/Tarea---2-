@@ -44,14 +44,19 @@ Capítulo 4
 
 Capítulo 3
 
+![Ejercicio 1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio1.PNG)
+![Ejercicio 3](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%203.PNG)
+![Ejercicio 5-7](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%205-7.PNG)
+![Ejercicio 9-11](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%209-11.PNG)
+![Ejercicio 13-15](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2013-15.PNG)
+![Ejercicio 17-19](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2017-19.PNG)
+![Ejercicio 23-25](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2023-25.PNG)
+![Ejercicio 27-29](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2027-29.PNG)
+![Ejercicio 31-33](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2031-33.PNG)
+![Ejercicio 35-37](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2035-37.PNG)
+![Ejercicio 39](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Ejercicio%2039.PNG)
 ![EjersC3 41-43](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC3%2041-43.png)
 ![EjersC3 45](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC3%2045.png)
-
-
-
-
-
-
 
 Capítulo 4   
 
