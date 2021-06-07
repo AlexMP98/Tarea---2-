@@ -35,7 +35,6 @@ Capítulo 3
 ![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-5.png)
 
 
-
 Capítulo 4
 ![Cap4_1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_1.png)  
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
@@ -103,8 +102,7 @@ Link del video: https://youtu.be/-DQBU4Q6n2s
 
 **5. CONCLUSIONES**    
 
-
-
+- Se determinó las relaciones de proporcionalidad mediante la ley de ohm la cual dice sé que la intensidad,es directamente proporcional al voltaje es inversamente   proporcional a la resistencia, asi como tambien otros factores como la resistividad que estan presenestre en los diferentes materiales. 
 
 **6.BIBLIOGRAFÍA**   
 
