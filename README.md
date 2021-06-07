@@ -23,7 +23,13 @@ Capítulo 4
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**    
-Capítulo 3   
+Capítulo 3
+![MapaCap 3 a 3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Fun.C%20Resistencia%20caa%203%20-%203.6.jpg)
+![MapaCap 3 a 3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-1.png)
+![MapaCap 3 a 3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-2.png)
+![MapaCap 3 a 3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-4.png)
+![MapaCap 3 a 3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-5.png)
+
 
 
 
