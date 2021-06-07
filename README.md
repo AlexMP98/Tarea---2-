@@ -40,12 +40,32 @@ Capítulo 4
 ![Cap4_1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_1.png)  
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
 
-**3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**    
+**3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
 Capítulo 3
+
+![EjersC3 41-43](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC3%2041-43.png)
+![EjersC3 45](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC3%2045.png)
+
+
+
+
 
 
 
 Capítulo 4   
+
+![EjersC4 1-3](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%201-3.png)
+![EjersC4 5-7](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%205-7.png)
+![EjersC4 9-11](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%209-11.png)
+![EjersC4 13-15](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2013-15.png)
+![EjersC4 17-19](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2017-19.png)
+![EjersC4 21-23](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2021-23.png)
+![EjersC4 25-27](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2025-27.png)
+![EjersC4 29-31](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2029-31.png)
+![EjersC4 33-35](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/EjersC4%2033-35.png)
+
+
 
 
 ![Ejer37-41](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/37-41.png)  
