@@ -9,11 +9,11 @@ Entender las bases y conceptos generales acerca de la Resistencia y ley de ohm,p
 
 _Objetivos Específicos_
 
-*Analizar la teoría y ejercicios planteados en los temas y subtemas de cada capitulo.
+*Analizar la teoría y ejercicios planteados en los temas y subtemas de cada capitulo. 
 
-*Realizar un resumen mediante organizadores graficas con el fin de facilitar la comprensión de los temas planteados en cada capitulo.
+*Realizar un resumen mediante organizadores graficas con el fin de facilitar la comprensión de los temas planteados en cada capitulo. 
 
-*Aplicar los conocimientos adquiridos para la resolución de ejercicios respectivos al tema.
+*Aplicar los conocimientos adquiridos para la resolución de ejercicios respectivos al tema. 
 
 **2. MARCO TEÓRICO**    
 Capítulo 3
