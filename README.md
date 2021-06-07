@@ -83,6 +83,7 @@ Capítulo 4
 ![Ejer67](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/67.png)    
 **4. VIDEO**    
 
+Link del video: https://youtu.be/-DQBU4Q6n2s   
 
 **5. CONCLUSIONES**    
 
