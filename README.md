@@ -3,7 +3,8 @@
 ## NRC: 5416    
 **1. OBJETIVOS**   
     
-_Objetivo General_    
+_Objetivo General_
+
 Entender las bases y conceptos generales acerca de la Resistencia y ley de ohm,para que estos puedan ser aplicados de la manera correcta en sus respectivos casos.
 
 _Objetivos Específicos_
