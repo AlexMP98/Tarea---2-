@@ -18,6 +18,18 @@ _Objetivos Específicos_
 **2. MARCO TEÓRICO**    
 Capítulo 3
 
+![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Fun.C%20Resistencia%20caa%203%20-%203.6.jpg)
+
+![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-1.png)
+
+![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-2.png)
+
+![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-4.png)
+
+![MapasC3-3.6](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Tabla%203-5.png)
+
+
+
 Capítulo 4
 ![Cap4_1](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_1.png)  
 ![Cap4_2](https://github.com/AlexMP98/Tarea-2/blob/main/Imagenes/Cap4_2.jpg) 
