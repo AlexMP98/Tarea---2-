@@ -4,10 +4,12 @@
 **1. OBJETIVOS**   
     
 _Objetivo General_    
+Entender las bases y conceptos generales acerca de la Resistencia y ley de ohm,para que estos puedan ser aplicados de la manera correcta en sus respectivos casos.
 
-
-
-_Objetivos Específicos_     
+_Objetivos Específicos_
+*Analizar la teoría y ejercicios planteados en los temas y subtemas de cada capitulo.
+*Realizar un resumen mediante organizadores graficas con el fin de facilitar la comprensión de los temas planteados en cada capitulo.
+*Aplicar los conocimientos adquiridos para la resolución de ejercicios respectivos al tema.
 
 
 
