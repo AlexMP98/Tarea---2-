@@ -104,6 +104,10 @@ Link del video: https://youtu.be/-DQBU4Q6n2s
 
 - Se determinó las relaciones de proporcionalidad mediante la ley de ohm la cual dice sé que la intensidad,es directamente proporcional al voltaje es inversamente   proporcional a la resistencia, asi como tambien otros factores como la resistividad que estan presenestre en los diferentes materiales. 
 
+- Se determinó que las aplicaciones de la ley de Ohm tienen relacion con conceptos como la temperatura y los diferentes coeficientes que tiene cada material, que varian el valor final.
+
+- Es importante tener en cuenta las diferentes tablas de cables y material estandarizados con valores dijos para agilitar el procedimiento.
+   
 **6.BIBLIOGRAFÍA**   
 
 H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.
